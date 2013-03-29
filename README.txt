@@ -47,4 +47,4 @@ Creating accessible Javascript menu system - some basic steps that get forgotten
 
 </ul>
 
-Check this out: http://thinkphp.ro/apps/Basic-menu/
+Check this out: http://thinkphp.ro/apps/js-hacks/basic-menu/
